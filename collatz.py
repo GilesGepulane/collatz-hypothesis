@@ -1,5 +1,3 @@
-import time
-
 num = 2
 steps = 0
 
